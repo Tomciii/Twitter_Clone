@@ -1,6 +1,6 @@
 {
   "homepage": "https://tomciii.github.io/Twitter_React/",
-  "name": "twitter-clone",
+  "name": "Twitter_React",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

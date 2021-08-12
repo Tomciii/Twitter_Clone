@@ -1,8 +1,5 @@
 import './App.css';
-import Sidebar from './Sidebar';
-import Tweet from './Tweet.js';
-import Widgets from './Widgets';
-import { BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Home from './Home'
 import Explore from './Explore'
 import More from './More'
