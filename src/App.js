@@ -13,6 +13,7 @@ function App() {
   return (
     <Router>
       <Switch>
+      <Route path="/Twitter_React" exact component={Home}></Route>
       <Route path="/" exact component={Home}></Route>
         <Route path="/Explore" exact component={Explore}></Route>
         <Route path="/Notifications" exact component={Notifications}></Route>
